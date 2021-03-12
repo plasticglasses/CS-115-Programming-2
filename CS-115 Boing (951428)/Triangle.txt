@@ -1,0 +1,8 @@
+triangle 26 50 1 -1 true 30 30 255 0 0 4000 true
+triangle 90 2 3 -1 true 20 60  0 0 255 4000 false
+rect 20 20 -1 1 true 50 80 255 255 0 0 true
+square 220 20 1 -2 true 50 0 0 3 245 true
+circle 220 120 0 5 false 80 25 52 25 2000 false
+oval 320 120 -3 -3 true 80 50 100 100 100 2000 true
+circle 250 250 -3 1 true 80 0 100 100 2000 true
+circle 250 250 3 -1 false 80 200 0 200 4000 false
